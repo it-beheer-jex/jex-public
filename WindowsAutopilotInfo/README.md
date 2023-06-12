@@ -1,6 +1,6 @@
 # WindowsAutopilotInfo
  
-To download on a machine, run this command (change the path as required)
+To download on a machine, run this command
 
 
-Invoke-RestMethod -Uri https://raw.githubusercontent.com/andrew-s-taylor/WindowsAutopilotInfo/main/get-windowsautopilotinfo.ps1 -OutFile c:\temp\get-windowsautopilotinfo.ps1
+Invoke-RestMethod -Uri https://raw.githubusercontent.com/itb-beheer-jex/jex-public/windowsautopilotinfo/main/get-windowsautopilotinfo.ps1 -OutFile c:\temp\get-windowsautopilotinfo.ps1
